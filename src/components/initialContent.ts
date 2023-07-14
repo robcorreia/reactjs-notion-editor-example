@@ -30,20 +30,20 @@ export const intialContent = `
 
 <h3>Styling Buttons:</h3>
 
-<pre><code>&lt;button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"&gt;
+<pre><code class="language-html"> &lt;button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"&gt;
   Click Me
   &lt;/button&gt;</code></pre>
 
 <h3>Creating Responsive Layouts:</h3>
 
-<pre><code>&lt;div class="flex flex-col sm:flex-row"&gt;
+<pre><code class="language-html"> &lt;div class="flex flex-col sm:flex-row"&gt;
   &lt;div class="bg-gray-200 p-4"&gt;Sidebar&lt;/div&gt;
   &lt;div class="bg-gray-300 p-4"&gt;Content&lt;/div&gt;
   &lt;/div&gt;</code></pre>
 
 <h3>Customizing Typography:</h3>
 
-<pre><code>&lt;h1 class="text-3xl text-blue-500 font-semibold mb-4"&gt;
+<pre><code class="language-html"> &lt;h1 class="text-3xl text-blue-500 font-semibold mb-4"&gt;
   Welcome to My Website
   &lt;/h1&gt;</code></pre>
 
